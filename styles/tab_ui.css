@@ -44,15 +44,11 @@ body {
 }
 
 .tabs .profile {
-  /* background-color: #db2777;
-  color: white; */
   box-shadow: 1px 5px 15px 1px #e0e0e0;
 }
 
 .tabs .settings,
 .options {
-  /* background-color: white;
-  color: #db2777; */
   box-shadow: 1px 2px 15px 1px #e0e0e0;
 }
 
